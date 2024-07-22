@@ -1,4 +1,4 @@
-# DATA-science_project
+# Data analyser using python 
 In this project we will use data scraping from a udemy data set to analyse data 
 * import pandas as pd -- To import Pandas library.
 * pd.read_csv - To import the CSV file in Jupyter notebook.
